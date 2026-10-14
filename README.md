@@ -1,4 +1,4 @@
-#  Why a 99% Score Can Be a Total Lie (The Accuracy Paradox)
+## Why a 99% Score Can Be a Total Lie (The Accuracy Paradox)
 
 Imagine you build a system to catch credit card fraud. Out of 1,000 transactions, 990 are totally normal and only 10 are actual fraud. 
 

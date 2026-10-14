@@ -1,7 +1,10 @@
-# GitHub Codespaces ♥️ Jupyter Notebooks
+# 🛑 The Accuracy Paradox: Beyond Accuracy in Machine Learning
 
-Welcome to your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
+A hands-on Python & Jupyter demonstration proving why high Accuracy can completely mask model failure on imbalanced datasets—and how **Precision, Recall, and F1-Score** reveal the truth.
 
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with what you're seeing right now - where you go from here is up to you!
+## 📊 Overview
+* **The Problem:** A naive baseline model predicting a 99% majority class achieves **99% Accuracy** while catching **0% of the minority targets** (e.g., fraud).
+* **The Solution:** Visualizing performance using a **Confusion Matrix** and **Classification Metrics** via `scikit-learn`, `matplotlib`, and `seaborn`.
 
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+## 🚀 Quick Start
+Open `new.ipynb` in GitHub Codespaces or Jupyter to run the simulation and generate inline evaluation plots.
